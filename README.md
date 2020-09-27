@@ -59,3 +59,6 @@ There are total 4 options you can test with difference optimization technique.
 multiply1, multiply2, multiply3, multiply4
 
 In details of how each function works will be handled in the report. 
+
+## Data
+All the data including the plot and Flame graph is under the 'data' folder. 
